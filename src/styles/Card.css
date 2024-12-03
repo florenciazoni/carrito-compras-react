@@ -34,7 +34,7 @@
   }
   
   .boton-agregar {
-    background-color: #4caf50;
+    background-color: #57be5a;
     color: white;
     border: none;
     padding: 5px 10px;
@@ -43,7 +43,7 @@
   }
   
   .boton-agregar:hover {
-    background-color: #45a049;
+    background-color: #5ec764;
   }
   .boton-quitar {
     background-color: #af4c4c;
